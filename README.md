@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Juan
 - 👀 I’m interested in Data Architecture and Blockchain Technologies.
-- 🌱 I’m currently learning currently learning Cardano development and web3.
+- 🌱 I’m currently learning currently Cardano development and web3.
 - 💞️ I’m looking to collaborate on web3 projects.
 - 📫 Discord alias Juantxu#6253
 
